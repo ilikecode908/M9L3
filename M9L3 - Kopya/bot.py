@@ -3,7 +3,7 @@ from discord.ext import commands
 import requests
 import pyttsx3
 
-TOKEN = "MTUzNDI1NDYzMjMyNTM1MzUzMw.GqKwAL.pdIhkHgz-Ykge7n2LT-16w2M7fgcxaceiHNvA0"
+TOKEN = ""
 
 intents = discord.Intents.default()
 intents.message_content = True
